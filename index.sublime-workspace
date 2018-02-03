@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"se",
+				"sex2"
+			],
+			[
+				"docu",
+				"document.write(\"тип"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"u",
+				"usrName"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"use",
+				"usrName\t(3_prompt.html)"
+			],
+			[
+				"str",
+				"string4"
+			],
+			[
+				"st",
+				"string3"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"re",
+				"resultPlus\t(1_number.html)"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"ma",
+				"mybagilove"
+			],
+			[
+				"var",
+				"var\t(3_variables.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 336.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sheve/Desktop/ИСХОДНЫЙ ШАБЛОН/Website/index.html",
+		"/C/Users/sheve/Desktop/ИСХОДНЫЙ ШАБЛОН/index.html",
+		"/C/Users/sheve/Desktop/работа html css/style.css",
+		"/C/Users/sheve/Desktop/работа html css/new 1.html",
+		"/B/Моя работа js/index.html",
+		"/B/Моя работа js/my.js/test.html",
+		"/B/Моя работа js/Урок 1/4)functions/1_function_basics/8_args_length.html",
+		"/B/Моя работа js/Урок 1/4)functions/1_function_basics/1_function.html",
+		"/B/Моя работа js/hw_filonenko_07102017/Scripts/getCube.js",
+		"/B/Моя работа js/hw_filonenko_07102017/Scripts/getReversed.js",
+		"/B/Моя работа js/hw_filonenko_07102017/Scripts/getDay.js",
+		"/B/Моя работа js/hw_filonenko_07102017/Scripts/contains.js",
+		"/B/Моя работа js/Урок 1/3)array/2_array methods/10_pop.html",
+		"/B/Моя работа js/test/my.js",
+		"/B/Моя работа js/test/test..html",
+		"/B/Моя работа js/Урок 1/3)array/2_array methods/12_unshift.html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/6_if-else_exmp3.html",
+		"/B/Моя работа js/Урок 1/3)array/1_array_basics/7_matrix.html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/5_if-else_exmp2 .html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/1_if.html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/2_if-else.html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/3_if-else_exmp.html",
+		"/B/Моя работа js/Урок 1/2)logical_structures/1_conditional_statements/4_if-else_not.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/4_logic/1_conjunction.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/4_logic/2_disjunction .html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/3_relation/2_relation_example.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/3_relation/1_relation.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/3_relation/3_string_relation.html",
+		"/B/Моя работа js/hw_filonenko_07102017/index.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/2_equality/5_example.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/2_equality/3_identity.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/2_equality/2_equality.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/2_equality/1_assignment.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/2_equality/4_not.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/5_decrement.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/6_smart_operators.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/1_simple.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/2_reminder.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/4_increment.html",
+		"/B/Моя работа js/Урок 1/1)start/4_operators/1_arithmetic/3_change_operators.html",
+		"/B/Моя работа js/my.js/4_confirm.html",
+		"/B/Моя работа js/Урок 1/1)start/3_simpleMethods/1_documentWrite.html",
+		"/B/Моя работа js/Урок 1/1)start/3_simpleMethods/3_prompt.html",
+		"/B/Моя работа js/Урок 1/1)start/3_simpleMethods/5_example.html",
+		"/B/Моя работа js/Урок 1/1)start/3_simpleMethods/4_confirm.html",
+		"/B/Моя работа js/Урок 1/1)start/3_simpleMethods/2_alert.html",
+		"/B/Моя работа js/test/list.css",
+		"/B/Моя работа js/my.js/while_exmp.html",
+		"/B/Моя работа js/Урок 1/1)start/2_data_types/5_undefined.html",
+		"/B/Моя работа js/Урок 1/1)start/2_data_types/3_logic.html",
+		"/B/Моя работа js/my.js/mystring.html",
+		"/B/Моя работа js/Урок 1/1)start/2_data_types/2_string.html",
+		"/B/Моя работа js/my.js/mytest.html",
+		"/B/Моя работа js/Урок 1/1)start/2_data_types/1_number.html",
+		"/B/Моя работа js/Урок 1/1)start/1_basics/4_name_var.html",
+		"/B/Моя работа js/Урок 1/1)start/1_basics/3_variables.html",
+		"/B/Моя работа js/Урок 1/1)start/1_basics/1_integration.html",
+		"/B/Моя работа js/Урок 1/1)start/1_basics/2_comments.html",
+		"/B/Моя работа js/Урок 1/1)start/1_basics/script.js",
+		"/B/Моя работа js/test.html",
+		"/C/Users/sheve/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
